@@ -28,7 +28,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 # FontAwesome & Bootstrap Styling
 # gem 'bootstrap-sass', '~> 3.3.6'
-gem 'bootstrap', '~> 5.0.1'
+gem 'bootstrap', '~> 5.0.0'
 gem 'font-awesome-rails'
 
 # Money managing
