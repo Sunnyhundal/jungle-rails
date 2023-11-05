@@ -167,6 +167,12 @@ GEM
       monetize (~> 1.9)
       money (~> 6.13)
       railties (>= 3.0)
+
+    msgpack (1.5.1)
+    nio4r (2.5.8)
+    nokogiri (1.13.4-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.4-x86_64-linux)
     msgpack (1.7.2)
     mutex_m (0.1.2)
     net-imap (0.4.4)
@@ -182,6 +188,7 @@ GEM
     nokogiri (1.15.4-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
+
       racc (~> 1.4)
     pg (1.5.4)
     pkg-config (1.5.5)
