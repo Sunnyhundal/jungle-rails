@@ -1,0 +1,10 @@
+
+<h1>🔑 Login</h1>
+<%# Login screen that collects email and password to authenticate user %>
+<%= form_tag '/login' do %>
+ 
+  Email: <%= text_field_tag :email %> </br>
+  Password: <%= password_field_tag :password %> </br>
+  
+  <%= submit_tag "Submit" %>
+<% end %>
